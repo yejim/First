@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T09:55:01.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="6bhYPVAo1ja-gQGEw4qg" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-07T09:55:15.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="v5LSVYg5DdqqrBWVk4VV" version="16.5.3" type="github">
   <diagram id="tKR9JdSKPvEkZK_Wvz4E" name="Page-1">
     <mxGraphModel dx="1022" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rok-xmegfn7VIWlT4QaW-5" value="" style="shape=mxgraph.cisco.people.sitting_woman;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="160" width="150" height="110" as="geometry" />
+          <mxGeometry x="140" y="160" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
